@@ -1,0 +1,1 @@
+This is my first landing page project. I will be using HTML and CSS to create this page.
